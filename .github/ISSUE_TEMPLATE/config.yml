@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: iTwin.js Feedback
+    url: https://github.com/iTwin/itwinjs-core/discussions
+    about: Share your feedback with the iTwin.js team.
