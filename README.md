@@ -10,7 +10,8 @@ The roadmap repository is for communicating iTwin.js' roadmap. Allowing for conv
 
 The roadmap is represented through GitHub Issues and each one is denoted with a label to indicate the area of iTwin.js it is targeting.
 
-- A `Display` label describes items related to our WebGL rendering both for other iModel graphics and other formats.
+- A `Display` label describes items related to our [WebGL rendering](https://www.itwinjs.org/learning/display/) both for other iModel graphics and other formats.
+
 - A `Presentation` label describes items for our [ECPresentation library](https://www.itwinjs.org/presentation/).
 - A `AppUI` label describes items for our [iTwin AppUI](https://www.itwinjs.org/learning/ui/)
 - A `Viewer` label describes items for our [iTwin Viewer](https://github.com/iTwin/viewer/tree/master/packages/modules/web-viewer-react#itwin-viewer-for-web).
